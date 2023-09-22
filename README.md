@@ -71,6 +71,12 @@ Dapin sedang belajar analisis jaringan. Bantulah Dapin untuk mengerjakan soal be
 - Protokol layer transport apa yang digunakan?
 
 ### Penyelesaian
+1. Dari screenshot berikut, dapat diketahui bahwa protokol port 3702 adalah UDP
+![penyelesaian3b](images/3b.png)
+2. Melakukan filter 'ip.src == 239.255.255.250 or ip.dst == 239.255.255.250 and udp.port == 3702'
+![penyelesaian3c](images/3c.png)
+3. Jumlah paket setelah filter terdapat di pojok kanan bawah, yakni 21
+![penyelesaian3d](images/3d.png)
 
 ### Screenshot Validation
 

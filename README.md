@@ -172,7 +172,7 @@ Berikan kueri filter sehingga wireshark hanya mengambil semua protokol paket yan
 
 ![soal8](images/8a.png)
 
-Soal 9
+## Soal 9
 
 ### Pertanyaan
 
@@ -204,4 +204,4 @@ Sebutkan kredensial yang benar ketika user mencoba login menggunakan Telnet
 
 ## Kendala Pengerjaan
 
-- halo
+- No 10 saat Praktikum belum mengetahui bagaimana cara mendapatkan kredensial yang benar, sehingga mencoba dari data telnet secara acak, dan berhasil dalam 2 percobaan, Lalu didapatkan pencerahan dari mbak Elshe untuk mencari data yang menandakan successful login
